@@ -14,4 +14,4 @@ SubmitMD5VT.py: This script is invoked by the shell script, but it can be run on
  1 -> Directory where the results will be saved to (the filename is VirusTotalResults.txt)
  2 -> Full path of the MD5.txt file which will be passed to VirusTotal
  
- Please remember you need a VT API for this! Search in the python script for <Insert VT API Key Here> and replace with your API key. If you have a free version, uncomment out the sleep commands and it should work fine in the restriction of the API. 
+ Please remember you need a VT API for this! Search in the python script for \<Insert VT API Key Here\> and replace with your API key. If you have a free version, uncomment out the sleep commands and it should work fine in the restriction of the API. 
