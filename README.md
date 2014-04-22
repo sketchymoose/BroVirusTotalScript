@@ -1,7 +1,7 @@
 BroVirusTotalScript
 ===================
 
-This is a collection of scripts which can work in combination with Bro file extraction. It consists of two scripts which take the PE32 files from a directory, hash them, and pass those hashes to VirusTotal. If any results are observed in VT, they are written to a file. More information about this can be found on the following blog post:
+This is a collection of scripts which can work in combination with Bro file extraction. It consists of two scripts which take the PE32 files from a directory, hash them, and pass those hashes to VirusTotal. If any results are observed in VT, they are written to a file. More information about this can be found on the following blog post: http://sketchymoose.blogspot.co.uk/2014/04/teaching-old-dog-new-tricks-bro.html
 
 
 runMD5.sh: This is the script which is directly invoked. It takes 3 agruments. 
